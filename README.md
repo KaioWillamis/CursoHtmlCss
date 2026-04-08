@@ -41,7 +41,7 @@ Durante o curso, desenvolvi alguns projetos práticos:
 
 ## 🔗 Conecte-se comigo
 
-- LinkedIn: https://www.linkedin.com/in/kaio willamis
+- LinkedIn: https://www.linkedin.com/in/kaiowillamis
 - GitHub: https://github.com/KaioWillamis
 
 ---
